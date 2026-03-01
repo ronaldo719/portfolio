@@ -36,7 +36,7 @@ export function Navbar() {
           href="#"
           className="font-mono text-sm font-semibold tracking-tight text-primary"
         >
-          {"<AC />"}
+          {"<RG />"}
         </a>
 
         {/* Desktop */}
